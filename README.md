@@ -41,8 +41,14 @@ Hello Rails-React is an API for  web application which generates random greeting
 
 ### Key Features <a name="key-features"></a>
 
-
 - Generate Random Greatings
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Link To frontend Repo <a name="key-features"></a>
+[Link](https://github.com/manzitresor/hello-rails-front-end.git)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
